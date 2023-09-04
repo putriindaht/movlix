@@ -1,0 +1,35 @@
+[
+    {
+        "username": "Haikal",
+        "email": "haikal@mail.mail",
+        "password": "12345",
+        "role": "Admin",
+        "phoneNumber": "08123456789",
+        "address": "Jakarta"
+    },
+    {
+        "username": "Riri",
+        "email": "riri@mail.mail",
+        "password": "12345",
+        "role": "Admin",
+        "phoneNumber": "08123456789",
+        "address": "Bandung"
+    },
+    {
+        "username": "Budi",
+        "email": "budi@mail.mail",
+        "password": "12345",
+        "role": "Staff",
+        "phoneNumber": "08123456789",
+        "address": "Tangerang"
+    },
+    {
+        "username": "Andika",
+        "email": "andika@mail.mail",
+        "password": "12345",
+        "role": "Staff",
+        "phoneNumber": "08123456789",
+        "address": "Bekasi"
+    }
+
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "MovieId": 2,
+        "CustomerId": 1
+    },
+    {
+        "MovieId": 1,
+        "CustomerId": 1
+    },
+    {
+        "MovieId": 3,
+        "CustomerId": 1
+    },
+    {
+        "MovieId": 4,
+        "CustomerId": 2
+    },
+    {
+        "MovieId": 5,
+        "CustomerId": 2
+    },
+    {
+        "MovieId": 6,
+        "CustomerId": 2
+    }
+    
+]

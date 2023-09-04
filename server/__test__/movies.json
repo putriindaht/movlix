@@ -1,0 +1,191 @@
+[
+    {
+        "title": "Your Name",
+        "synopsis": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+        "trailerUrl": "https://www.youtube.com/embed/xU47nhruN-Q",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_SX300.jpg",
+        "rating": 8,
+        "genreId": 6,
+        "authorId": 1
+    },
+    {
+        "title": "Parasite",
+        "synopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "trailerUrl": "https://www.youtube.com/embed/SEUXfv87Wpk",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+        "rating": 9,
+        "genreId": 4,
+        "authorId": 1
+    },
+    {
+        "title": "Inside Out",
+        "synopsis": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+        "trailerUrl": "https://www.youtube.com/embed/yRUAzGQ3nSY",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg",
+        "rating": 8,
+        "genreId": 5,
+        "authorId": 1
+    },
+    {
+        "title": "Inception",
+        "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "trailerUrl": "https://www.youtube.com/embed/YoHD9XEInc0",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzkwNzE4Ml5BMl5BanBnXkFtZTYwNzExMjg3._V1_SX300.jpg",
+        "rating": 9,
+        "genreId": 3,
+        "authorId": 1
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "trailerUrl": "https://www.youtube.com/embed/6hB3S9bIaco",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTQwNjYwOTAyN15BMl5BanBnXkFtZTYwNzUxNTg5._V1_SX300.jpg",
+        "rating": 9,
+        "genreId": 4,
+        "authorId": 2
+    },
+    {
+        "title": "The Godfather",
+        "synopsis": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+        "trailerUrl": "https://www.youtube.com/embed/sY1S34973zA",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMWE5YjFmMDQtYzY4YS00NTdmLTljZTAtN2RjMzYwNTU1MzllXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+        "rating": 9,
+        "genreId": 3,
+        "authorId": 2
+    },
+    {
+        "title": "The Dark Knight",
+        "synopsis": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "trailerUrl": "https://www.youtube.com/embed/EXeTwQWrcwY",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjMxNzk2MzgxMV5BMl5BanBnXkFtZTYwNzE0MDc2._V1_SX300.jpg",
+        "rating": 9,
+        "genreId": 3,
+        "authorId": 2
+    },
+    {
+        "title": "Pulp Fiction",
+        "synopsis": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "trailerUrl": "https://www.youtube.com/embed/s7EdQ4FqbhY",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTk5OTI0NjM2OF5BMl5BanBnXkFtZTYwNzE2MDc2._V1_SX300.jpg",
+        "rating": 9,
+        "genreId": 4,
+        "authorId": 2
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "synopsis": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "trailerUrl": "https://www.youtube.com/embed/r5X-hFf6Bwo",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMDk5ODU4Nl5BMl5BanBnXkFtZTYwNzE2MjE2._V1_SX300.jpg",
+        "rating": 9,
+        "genreId": 4,
+        "authorId": 3
+    },
+    {
+        "title": "Interstellar",
+        "synopsis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "trailerUrl": "https://www.youtube.com/embed/zSWdZVtXT7E",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjMxNjgyODc5Ml5BMl5BanBnXkFtZTYwNzE2NDM2._V1_SX300.jpg",
+        "rating": 8,
+        "genreId": 5,
+        "authorId": 3
+    },
+    {
+        "title": "The Matrix",
+        "synopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "trailerUrl": "https://www.youtube.com/embed/vKQi3bBA1y8",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BNWMwNmJjOGUtNDIwZC00ZmE4LWI0ZTktNDhlOTk1ZGRiMmFkXkEyXkFqcGdeQXVyMTA1NTM0NDI1._V1_SX300.jpg",
+        "rating": 8,
+        "genreId": 5,
+        "authorId": 3
+    },
+    {
+        "title": "Forrest Gump",
+        "synopsis": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+        "trailerUrl": "https://www.youtube.com/embed/uPIEn0M8su0",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BNzA1NzgwMzM1M15BMl5BanBnXkFtZTYwNzE2NDM2._V1_SX300.jpg",
+        "rating": 9,
+        "genreId": 4,
+        "authorId": 4
+    },
+    {
+        "title": "Titanic",
+        "synopsis": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "trailerUrl": "https://www.youtube.com/embed/kVrqfYjkTdQ",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTczNDYwMl5BMl5BanBnXkFtZTYwNzE2MjE2._V1_SX300.jpg",
+        "rating": 8,
+        "genreId": 6,
+        "authorId": 4
+    },
+    {
+        "title": "Avatar",
+        "synopsis": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "trailerUrl": "https://www.youtube.com/embed/5PSNL1qE6VY",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTYwOTUzNzgxNV5BMl5BanBnXkFtZTYwNzE2MjE2._V1_SX300.jpg",
+        "rating": 8,
+        "genreId": 3,
+        "authorId": 4
+    },
+    {
+        "title": "Gladiator",
+        "synopsis": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "trailerUrl": "https://www.youtube.com/embed/owK1qxDselE",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMTE5MDkxN15BMl5BanBnXkFtZTYwNzE2MDc2._V1_SX300.jpg",
+        "rating": 8,
+        "genreId": 3,
+        "authorId": 1
+    },
+    {
+        "title": "The Lion King",
+        "synopsis": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "trailerUrl": "https://www.youtube.com/embed/4sj1MT05lAA",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BNWI5MDg4YjQtZjc1OC00NzMyLWE0YzYtY2U2OGUwN2M4MzI1XkEyXkFqcGdeQXVyMTA3MjM3MTg0._V1_SX300.jpg",
+        "rating": 8,
+        "genreId": 4,
+        "authorId": 2
+    },
+    {
+        "title": "The Avengers",
+        "synopsis": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "trailerUrl": "https://www.youtube.com/embed/eOrNdBpGMv8",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTYwOTM3MjAxM15BMl5BanBnXkFtZTYwNzE2MjE2._V1_SX300.jpg",
+        "rating": 8,
+        "genreId": 3,
+        "authorId": 3
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "synopsis": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "trailerUrl": "https://www.youtube.com/embed/W6Mm8Sbe__o",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTQ0MjYxMzM5M15BMl5BanBnXkFtZTYwNzE2MDc2._V1_SX300.jpg",
+        "rating": 9,
+        "genreId": 2,
+        "authorId": 4
+    },
+    {
+        "title": "Jurassic Park",
+        "synopsis": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+        "trailerUrl": "https://www.youtube.com/embed/QWBKEmWWL38",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjA4OTkwMDUwMV5BMl5BanBnXkFtZTYwNzE2MjE2._V1_SX300.jpg",
+        "rating": 8,
+        "genreId": 5,
+        "authorId": 1
+    },
+    {
+        "title": "The Social Network",
+        "synopsis": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
+        "trailerUrl": "https://www.youtube.com/embed/lB95KLmpLR4",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTc0MzI3MTc4Nl5BMl5BanBnXkFtZTYwNzE2MjE2._V1_SX300.jpg",
+        "rating": 8,
+        "genreId": 4,
+        "authorId": 2
+    },
+    {
+        "title": "The Great Gatsby",
+        "synopsis": "A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle of his millionaire neighbor, Jay Gatsby.",
+        "trailerUrl": "https://www.youtube.com/embed/rARN6agiW7o",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTkzMjA5MDU5OV5BMl5BanBnXkFtZTYwNzE2MjE2._V1_SX300.jpg",
+        "rating": 7,
+        "genreId": 6,
+        "authorId": 3
+    }
+]
